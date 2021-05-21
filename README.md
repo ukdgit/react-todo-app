@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+It can perform basic CRUD operations.
+![Capture2](https://user-images.githubusercontent.com/78226651/119178391-4d000700-ba8b-11eb-9a40-d035e4edd90e.PNG)
+![Capture](https://user-images.githubusercontent.com/78226651/119178384-4b364380-ba8b-11eb-80b1-d5c57b0fde73.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
